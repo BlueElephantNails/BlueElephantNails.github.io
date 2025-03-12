@@ -10,8 +10,8 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image_path: /images/products/deer/black.jpg
-featured_image_path: /images/products/deer/black.jpg
+    image_path: /images/products/deer/1.jpg
+featured_image_path: /images/products/deer/1.jpg
 facebook_image_path:
 ---
 
