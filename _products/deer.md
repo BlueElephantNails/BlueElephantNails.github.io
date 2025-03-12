@@ -1,6 +1,6 @@
 ---
-title: Sacha the Deer
-description: Deer t-shirt
+title: 100% hand painted nails
+description: 100% hand painted nails
 price: '15.00'
 sizes:
   - XS
@@ -116,7 +116,7 @@ styles:
   - name: 36
     color: '#dfd3c2'
     image_path: /images/products/deer/317.jpg
-featured_image_path: /images/products/deer/1.jpg
+featured_image_path: /images/products/deer/317.jpg
 facebook_image_path:
 ---
 

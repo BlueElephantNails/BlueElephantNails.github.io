@@ -15,6 +15,6 @@ featured_image_path: '/images/products/giraffe/green.jpg'
 facebook_image_path:
 ---
 
-Gerald the giraffe isn’t particularly spiritual but he has a long neck which can help you in a pinch.
+100% hand painted, reusable, highest quality nails
 
-Slim Fit, 5oz 100% Cotton T-Shirt.
+
