@@ -9,16 +9,16 @@ sizes:
   - L
 styles:
   - name: 1
-    color: '#dfd3c2'
+    color: '#ffffff'
     image_path: /images/products/deer/3178.jpg
   - name: 2
-    color: '#dfd3c2'
+    color: '#ffffff'
     image_path: /images/products/deer/3178.jpg
   - name: 3
-    color: '#dfd3c2'
+    color: '#ffffff'
     image_path: /images/products/deer/3178.jpg
   - name: 4
-    color: '#dfd3c2'
+    color: '#fffff'
     image_path: /images/products/deer/3178.jpg
   - name: 5
     color: '#dfd3c2'
