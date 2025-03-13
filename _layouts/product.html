@@ -23,12 +23,15 @@ layout: default
           <p class="item_price">{{ page.price }}</p>
           {{ content }}
 
-        	<div class="style-picker">
-            <p class="margin-bottom-0">Style:</p>
+          <div class="style-picker">
+            <p class="margin-bottom-0">Style:</p >
             {% for style in page.styles %}
-              <div id="product-{{ forloop.index }}"{% if forloop.first %} class="item_color"{% endif %} style="background-color: {{ style.color }}"><span class="display-none">{{ style.name }}</span></div>
+            <div id="product-{{ forloop.index }}"
+                 {% if forloop.first %}class="item_color"{% endif %}>
+              {{ style.name }}
+            </div>
             {% endfor %}
-        	</div>
+          </div>
 
           <p class="margin-bottom-0">Size:</p>
           <select class="item_size">
@@ -47,6 +50,8 @@ layout: default
             <option value="6"> 6 </option>
             <option value="7"> 7 </option>
             <option value="8"> 8 </option>
+            <option value="9"> 9 </option>
+            <option value="10"> 10 </option>
           </select>
 
           <a id="item_add" class="item_add button" href="javascript:;"> Add to Cart </a></span>
