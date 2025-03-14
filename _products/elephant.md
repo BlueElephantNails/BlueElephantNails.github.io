@@ -240,7 +240,7 @@ styles:
   - name: 99
     color: '#dfd3c2'
     image_path: /images/products/elephant/152.jpg
-featured_image_path: '/images/products/elephant/cream.jpg'
+featured_image_path: '/images/products/elephant/152.jpg'
 facebook_image_path:
 ---
 
