@@ -1,7 +1,7 @@
 ---
-title: 100% hand painted nails
+title: 100% hand painted nails box
 description:
-price: '5.00'
+price: '2.00'
 sizes:
   - XS
   - S
